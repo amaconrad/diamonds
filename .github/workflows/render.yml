@@ -9,5 +9,5 @@ jobs:
       - name: Render document
         uses: lc5415/rmarkdown-action@v1
         with:
-          input_file: /diamonds.Rmd
-	  output_format: pdf_document
+          input_file: diamonds.Rmd
+	  output_format: html_document
