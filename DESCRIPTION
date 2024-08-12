@@ -1,0 +1,8 @@
+Type: project
+Package: available-work
+Version: 1.0.0
+Imports: 
+    gha (>= 0.0.0.9000),
+    ggplot2
+Remotes:  
+    r-lib/gha
