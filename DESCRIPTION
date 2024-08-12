@@ -3,6 +3,7 @@ Package: available-work
 Version: 1.0.0
 Imports: 
     gha (>= 0.0.0.9000),
-    ggplot2
+    ggplot2,
+    rmarkdown
 Remotes:  
     r-lib/gha
